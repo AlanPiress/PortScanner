@@ -1,5 +1,4 @@
 ## Projeto
-
 PortScanner desenvolvido em Python para escanear um host pessoal.
 
 ## Tecnologias Utilizadas:
