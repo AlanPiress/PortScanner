@@ -2,7 +2,6 @@ import socket
 import sys
 
 print ("\n\nO Escaneamento pode levar \nalguns minutos, Aguarde!\n")
-
 print ("========================")
 
 #Caso queira fazer uma varredura geral,utilize:
